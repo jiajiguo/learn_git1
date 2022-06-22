@@ -19,5 +19,8 @@ int main(){
     fun1(10,20);
     fun2();
     cout << "chifan"<< endl;
+    cout << "chifan"<< endl;
+    cout << "chifan"<< endl;
+
     return 0;
 }
